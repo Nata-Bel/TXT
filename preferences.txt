@@ -1,0 +1,5 @@
+Film: Ace Ventura
+Series: Friends
+Food: Strawberry
+Season: Spring
+Country: Australia
