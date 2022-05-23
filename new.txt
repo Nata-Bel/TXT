@@ -1,0 +1,4 @@
+Name: Natalia
+Age: 37 
+Number pets: 5
+Future salary: $1500
